@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+     <img src="https://cristhianherrerafer.files.wordpress.com/2012/10/sanfranciscodequito.jpg">
+     <tittle> <b> <font size="5">UNIDAD EDUCATIVA MUNICIPAL "SAN FRANCISCO DE QUITO"</b></font></tittle>
+     <style type="text/css">
+
+      body{
+
+         background-color: lightblue;
+
+      }
+
+     </style>
+  </head>
+
+    <body> 
+      <center>
+      <table border="1" width="50%">
+        <tr>
+          <td colspan="3" align="center" bgcolor="lightgreen">  tabla de contenidos </td>
+        </tr>
+        <tr align="center">
+          <td> contenidos </td>  
+          <td> apoyos </td>
+          <td> materiales </td>
+        </tr>
+
+        <tr align="left">
+          <td> 
+            <ul>
+              <li> calentamiento global.</li>
+              <li> cambio climático.</li>
+              <li> conciencia ecológica.</li>
+              <li> contaminación.</li>
+              <li> medio ambiente.</li>
+            </ul>
+
+          </td> 
+           <td> 
+            <ol>
+              <li> Utiliza el transporte público.</li>
+              <li> Compra productos locales.</li>
+              <li> Consume productos ecológicos.</li>
+              <li> Recicla.</li>
+              <li> Reduce.</li>
+            </ol>
+
+          </td> 
+          <td> 
+            <ol>
+              <li> Madera.</li>
+              <li> Papel.</li>
+              <li> Plástico.</li>
+              <li> Cartón.</li>
+              <li> Vidrio.</li>
+            </ol>
+
+          </td> 
+      </table>
+      </center>
+    <body>
+</html>
